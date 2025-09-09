@@ -1,0 +1,11 @@
+# Arquivo .gitignore
+
+# Ignorar o arquivo de variáveis de ambiente locais
+.env
+
+# Ignorar o arquivo do banco de dados SQLite
+*.db
+
+# Ignorar pastas de ambiente virtual
+venv/
+__pycache__/
